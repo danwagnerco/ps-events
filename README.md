@@ -1,4 +1,4 @@
 ps-events
 =========
 
-Pragmatic Studio Rails events app
+"Computer, load up Celery Man please... Computer, give me a printout of Oyster smiling." -Paul Rudd
